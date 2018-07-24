@@ -1,0 +1,31 @@
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\onp\onp\bin\Debug\onp.exe.config
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\onp\onp\bin\Debug\onp.exe
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\onp\onp\bin\Debug\onp.pdb
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\onp\onp\obj\Debug\onp.csprojResolveAssemblyReference.cache
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\onp\onp\obj\Debug\onp.exe
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\onp\onp\obj\Debug\onp.pdb
+H:\onp\onp\bin\Debug\onp.exe.config
+H:\onp\onp\bin\Debug\onp.exe
+H:\onp\onp\bin\Debug\onp.pdb
+H:\onp\onp\obj\Debug\onp.csprojResolveAssemblyReference.cache
+H:\onp\onp\obj\Debug\onp.exe
+H:\onp\onp\obj\Debug\onp.pdb
+E:\onp\onp\bin\Debug\onp.exe.config
+E:\onp\onp\bin\Debug\onp.exe
+E:\onp\onp\bin\Debug\onp.pdb
+E:\onp\onp\obj\Debug\onp.csprojResolveAssemblyReference.cache
+E:\onp\onp\obj\Debug\onp.exe
+E:\onp\onp\obj\Debug\onp.pdb
+C:\Users\Michał\Desktop\onp\onp\bin\Debug\onp.exe.config
+C:\Users\Michał\Desktop\onp\onp\bin\Debug\onp.exe
+C:\Users\Michał\Desktop\onp\onp\bin\Debug\onp.pdb
+C:\Users\Michał\Desktop\onp\onp\obj\Debug\onp.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\onp\onp\obj\Debug\onp.exe
+C:\Users\Michał\Desktop\onp\onp\obj\Debug\onp.pdb
+C:\Users\Michał\Dysk Google\Szkoła\#SEMESTRIV\Kompilatory\onp\onp\bin\Debug\onp.exe.config
+C:\Users\Michał\Dysk Google\Szkoła\#SEMESTRIV\Kompilatory\onp\onp\bin\Debug\onp.exe
+C:\Users\Michał\Dysk Google\Szkoła\#SEMESTRIV\Kompilatory\onp\onp\bin\Debug\onp.pdb
+C:\Users\Michał\Dysk Google\Szkoła\#SEMESTRIV\Kompilatory\onp\onp\obj\Debug\onp.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Dysk Google\Szkoła\#SEMESTRIV\Kompilatory\onp\onp\obj\Debug\onp.exe
+C:\Users\Michał\Dysk Google\Szkoła\#SEMESTRIV\Kompilatory\onp\onp\obj\Debug\onp.pdb
+C:\Users\Michał\Dysk Google\Szkoła\#SEMESTRIV\Kompilatory\onp\onp\obj\Debug\onp.csproj.CoreCompileInputs.cache
